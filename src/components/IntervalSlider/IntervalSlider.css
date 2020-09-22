@@ -1,0 +1,14 @@
+.container {
+  position: fixed;
+  bottom: 30vh;
+  right: 1vw;
+}
+
+.label {
+  color: white;
+  font-size: 4vw;
+}
+
+.slider {
+  transform: rotate(270deg);
+}
