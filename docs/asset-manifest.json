@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.74291efe.chunk.css",
-    "main.js": "/static/js/main.264a2df3.chunk.js",
-    "main.js.map": "/static/js/main.264a2df3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b9062f43.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b9062f43.js.map",
-    "static/js/2.7647b7d2.chunk.js": "/static/js/2.7647b7d2.chunk.js",
-    "static/js/2.7647b7d2.chunk.js.map": "/static/js/2.7647b7d2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f7577fdab9182d70c5b2fc6f242e5d65.js": "/precache-manifest.f7577fdab9182d70c5b2fc6f242e5d65.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.74291efe.chunk.css.map": "/static/css/main.74291efe.chunk.css.map",
-    "static/js/2.7647b7d2.chunk.js.LICENSE.txt": "/static/js/2.7647b7d2.chunk.js.LICENSE.txt"
+    "main.css": "https://torrescristian.github.io/2-15-christmas-lights/static/css/main.74291efe.chunk.css",
+    "main.js": "https://torrescristian.github.io/2-15-christmas-lights/static/js/main.71777e4a.chunk.js",
+    "main.js.map": "https://torrescristian.github.io/2-15-christmas-lights/static/js/main.71777e4a.chunk.js.map",
+    "runtime-main.js": "https://torrescristian.github.io/2-15-christmas-lights/static/js/runtime-main.56512f10.js",
+    "runtime-main.js.map": "https://torrescristian.github.io/2-15-christmas-lights/static/js/runtime-main.56512f10.js.map",
+    "static/js/2.7647b7d2.chunk.js": "https://torrescristian.github.io/2-15-christmas-lights/static/js/2.7647b7d2.chunk.js",
+    "static/js/2.7647b7d2.chunk.js.map": "https://torrescristian.github.io/2-15-christmas-lights/static/js/2.7647b7d2.chunk.js.map",
+    "index.html": "https://torrescristian.github.io/2-15-christmas-lights/index.html",
+    "precache-manifest.d27f922dcf3561046dfab49e4721254f.js": "https://torrescristian.github.io/2-15-christmas-lights/precache-manifest.d27f922dcf3561046dfab49e4721254f.js",
+    "service-worker.js": "https://torrescristian.github.io/2-15-christmas-lights/service-worker.js",
+    "static/css/main.74291efe.chunk.css.map": "https://torrescristian.github.io/2-15-christmas-lights/static/css/main.74291efe.chunk.css.map",
+    "static/js/2.7647b7d2.chunk.js.LICENSE.txt": "https://torrescristian.github.io/2-15-christmas-lights/static/js/2.7647b7d2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9062f43.js",
+    "static/js/runtime-main.56512f10.js",
     "static/js/2.7647b7d2.chunk.js",
     "static/css/main.74291efe.chunk.css",
-    "static/js/main.264a2df3.chunk.js"
+    "static/js/main.71777e4a.chunk.js"
   ]
 }
